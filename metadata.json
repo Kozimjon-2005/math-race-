@@ -1,0 +1,5 @@
+{
+  "name": "Math Racer",
+  "description": "A fun educational racing game where you solve math problems to speed up your car. Answer correctly to gain speed and points, but be careful! A wrong answer will slow you down and cost you a life.",
+  "requestFramePermissions": []
+}
